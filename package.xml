@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>Miniproject-C2-19</name>
+  <version>0.0.0</version>
+  <description>BLABLABLA</description>
+
+  <maintainer email="kdh@es.aau.dk">Karl Hansen</maintainer>
+
+  <license>MIT</license>
+
+  <depend>roscpp</depend>
+  <depend>turtlesim</depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
